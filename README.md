@@ -15,7 +15,7 @@ This bash script completely automates the installation, configuration, and deplo
 
 ## How to Use
 
-1. **Download or copy the script** to your server (e.g., save it as `deploy.sh`).
+1. **Download or copy the script** to your server (e.g., save it as `deploy-ecommerence-application.sh`).
 2. **Make the script executable:**
    ```bash
-   chmod +x deploy.sh
+   chmod +x deploy-ecommerence-application.sh
